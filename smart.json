@@ -1,0 +1,11 @@
+{
+  "name": "git-commit-sha",
+  "description": "adds the git commit sha to the Meteor runtime config",
+  "homepage": "https://github.com/awwx/meteor-git-commit-sha#readme",
+  "author": "Andrew Wilcox",
+  "version": "0.0.1",
+  "git": "https://github.com/awwx/meteor-git-commit-sha.git",
+  "packages": {
+    "when": {}
+  }
+}
